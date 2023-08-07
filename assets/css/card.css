@@ -103,6 +103,9 @@
   /* justify-content: center; */
   align-items: center;
 }
+.backSide-content::-webkit-scrollbar {
+  display: none;
+}
 @keyframes animate {
   0% {
     opacity: 0.3;
