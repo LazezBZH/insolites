@@ -16,7 +16,7 @@ function init() {
 
 function renderObject(object) {
   const name = document.querySelector("#name");
-  const image = document.querySelector("img");
+  const image = document.querySelector(".img");
   const title = document.querySelector("#title");
   const texte = document.querySelector("#backSide");
 
